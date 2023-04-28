@@ -1,6 +1,6 @@
 # Privacy Policy
 
-## Privacy Policy
+### Privacy Policy
 playatmosgame built the Match3 HundredMoves app as a Free app. This SERVICE is provided by playatmosgame at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
